@@ -1,12 +1,12 @@
 <?php $TRANSLATIONS = array(
   'Edit' => '&Eacute;diter',
-  'Etherpad Host' => 'Etherpad Host',
+  'Etherpad Host' => 'H&ocirc;te Etherpad',
   'ex' => 'ex',
-  'Title' => 'Titel',
-  'public link' => 'public link',
+  'Title' => 'Titre',
+  'public link' => 'Lien publique',
   'Pad' => 'Pad',
   'save' => 'save',
-  'Padname cannot be empty' => 'Padname cannot be empty',
-  'New pad named ' => 'New pad named ',
-  ' was created.' => ' was created.',
+  'Padname cannot be empty' => 'Le nom du Pad ne peut être vide',
+  'New pad named ' => 'Nouveau Pad nommé ',
+  ' was created.' => ' a été créé.',
 );
